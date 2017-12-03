@@ -1,4 +1,4 @@
 #tmpファイル除外
 *.*~
 \#*
-*/.stack-work/
+*.stack-work/
